@@ -143,9 +143,6 @@ public class Gui extends JFrame implements ActionListener{
         			
         		}
         				
-        		for(int o=0;0<num.size();o++) {
-        			System.out.println(num.get(o));
-        		}
         	}
         			
         }
